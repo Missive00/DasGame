@@ -1,6 +1,6 @@
-#How to git The quick and dirty way
+# How to git The quick and dirty way
 
-##Setting up your repo
+## Setting up your repo
 Click fork at the top right of this page and make your own fork of the code.
 ![GitHub](https://i.imgur.com/6mUgu0Z.png)
 
@@ -14,14 +14,14 @@ After thats updated, create a new branch and change to it. **Never edit your mas
 
 Make sure you've selected the right branch.
 
-##Making changes/actually coding
+## Making changes/actually coding
 Every time you come to work on any of the project, open up github destop first and press fetch twice.
 
 ![GitHub](https://i.imgur.com/BFRFB8i.png)
 
 Edit your code
 
-##Commiting your changes to your branch.
+## Commiting your changes to your branch.
 After doing your changes to the local files, open gitdesktop again.
 You should see something like this:
 
@@ -34,7 +34,7 @@ Then push your changes up to the server
 
 Your branch is now updated.
 
-##Making a pull request/adding your code to the master fork.
+## Making a pull request/adding your code to the master fork.
 Go to https://github.com/Thalpy/DasGame/pulls
 Click new pull request.
 Click compare across forks and select your fork.

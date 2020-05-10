@@ -11,3 +11,4 @@ Written in C# using the unity engine
 5. When making a PR, update the documentation with new procs/documentation if you expect anyone else will use what you coded.
 6. No comments, no merge.
 7. No self merging please.
+8. Try to use markdown in text documents

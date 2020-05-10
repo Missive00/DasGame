@@ -6,7 +6,7 @@ Click fork at the top right of this page and make your own fork of the code.
 
 Afterwards download this and sign in: https://desktop.github.com/
 Once you've got it open and signed in click here:
-![GitHub][GitHub](https://puu.sh/FID3u.png)
+![GitHub](https://puu.sh/FID3u.png)
 Click add and clone respository and nativate to **your fork**
 After thats updated, create a new branch and change to it. **Never edit your master branch, this is used to update your branch from the master code**
 

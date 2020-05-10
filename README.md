@@ -12,3 +12,6 @@ Written in C# using the unity engine
 6. No comments, no merge.
 7. No self merging please.
 8. Try to use markdown in text documents
+
+# How to set up git
+See ![Here](How_to_setup_git.md)

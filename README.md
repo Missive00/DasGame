@@ -3,6 +3,9 @@
 A hodge podge test game to learn unity
 Written in C# using the unity engine
 
+# Unity Version
+We're using Unity 2019.3.13 for now
+
 # General things to keep in mind to get your code merged
 1. TRUE/FALSE defines for booleans not 1/0
 2. No magic numbers, no magic strings, etc etc etc. Define everything with #define so we don't cry over unreadable/spaghetti code later.

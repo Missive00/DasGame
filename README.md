@@ -14,4 +14,4 @@ Written in C# using the unity engine
 8. Try to use markdown in text documents
 
 # How to set up git
-See ![Here](How_to_setup_git.md)
+See [Here](How_to_setup_git.md)

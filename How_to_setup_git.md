@@ -37,4 +37,5 @@ Fill in sensible details.
 You should get this:
 !(https://i.imgur.com/S8Coytv.png)
 Afterwards, let me review it. Do not self merge.
+If you edit your branch, your PR will update too. Try to keep each PR request to it's own branch.
 
